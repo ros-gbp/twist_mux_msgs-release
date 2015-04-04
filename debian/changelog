@@ -1,0 +1,15 @@
+ros-hydro-twist-mux-msgs (0.0.2-0quantal) quantal; urgency=high
+
+  * Remove not needed include_directories
+  * Contributors: Enrique Fernandez
+
+ -- Enrique Fernandez <enrique.fernandez@pal-robotics.com>  Sun, 16 Nov 2014 05:00:00 -0000
+
+ros-hydro-twist-mux-msgs (0.0.1-0quantal) quantal; urgency=high
+
+  * Add twist_mux msgs
+  * Contributors: Enrique Fernandez, Siegfried Gevatter, Paul Mathieu
+
+ -- Enrique Fernandez <enrique.fernandez@pal-robotics.com>  Thu, 13 Nov 2014 05:00:00 -0000
+
+
