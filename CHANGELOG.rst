@@ -2,9 +2,9 @@
 Changelog for package twist_mux_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.0.2 (2014-11-16)
+0.1.0 (2015-04-04)
 ------------------
-* Remove not needed include_directories
+* Update maintainer email
 * Contributors: Enrique Fernandez
 
 0.0.1 (2014-11-13)
