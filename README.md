@@ -1,3 +1,24 @@
+## twist_mux_msgs (jade) - 1.0.0-0
+
+The packages in the `twist_mux_msgs` repository were released into the `jade` distro by running `/usr/bin/bloom-release twist_mux_msgs --track jade --rosdistro jade` on `Fri, 22 May 2015 16:38:09 -0000`
+
+The `twist_mux_msgs` package was released.
+
+Version of package(s) in repository `twist_mux_msgs`:
+- upstream repository: https://github.com/ros-teleop/twist_mux_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.0.0-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.8`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.36`
+
+
 ## twist_mux_msgs (indigo) - 0.1.0-0
 
 The packages in the `twist_mux_msgs` repository were released into the `indigo` distro by running `/usr/bin/bloom-release twist_mux_msgs --track indigo --rosdistro indigo` on `Sat, 04 Apr 2015 23:58:15 -0000`
