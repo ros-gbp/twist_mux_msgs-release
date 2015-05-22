@@ -1,0 +1,12 @@
+Source: ros-jade-twist-mux-msgs
+Section: misc
+Priority: extra
+Maintainer: Enrique Fernandez <efernandez@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-jade-actionlib, ros-jade-actionlib-msgs, ros-jade-catkin, ros-jade-message-generation
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-jade-twist-mux-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jade-actionlib, ros-jade-actionlib-msgs, ros-jade-message-runtime
+Description: The twist_mux msgs and actions package
