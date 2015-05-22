@@ -1,0 +1,21 @@
+ros-jade-twist-mux-msgs (1.0.0-0trusty) trusty; urgency=high
+
+
+
+ -- Enrique Fernandez <efernandez@clearpathrobotics.com>  Fri, 22 May 2015 04:00:00 -0000
+
+ros-jade-twist-mux-msgs (0.1.0-0trusty) trusty; urgency=high
+
+  * Update maintainer email
+  * Contributors: Enrique Fernandez
+
+ -- Enrique Fernandez <efernandez@clearpathrobotics.com>  Sat, 04 Apr 2015 04:00:00 -0000
+
+ros-jade-twist-mux-msgs (0.0.1-0trusty) trusty; urgency=high
+
+  * Add twist_mux msgs
+  * Contributors: Enrique Fernandez, Siegfried Gevatter, Paul Mathieu
+
+ -- Enrique Fernandez <efernandez@clearpathrobotics.com>  Thu, 13 Nov 2014 05:00:00 -0000
+
+
