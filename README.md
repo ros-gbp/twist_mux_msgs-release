@@ -1,3 +1,26 @@
+## twist_mux_msgs (kinetic) - 2.0.0-0
+
+The packages in the `twist_mux_msgs` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --track kinetic --ros-distro kinetic twist_mux_msgs` on `Tue, 12 Jul 2016 15:49:12 -0000`
+
+The `twist_mux_msgs` package was released.
+
+Version of package(s) in repository `twist_mux_msgs`:
+
+- upstream repository: https://github.com/ros-teleop/twist_mux_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `2.0.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.38`
+
+
 ## twist_mux_msgs (jade) - 1.0.0-0
 
 The packages in the `twist_mux_msgs` repository were released into the `jade` distro by running `/usr/bin/bloom-release twist_mux_msgs --track jade --rosdistro jade` on `Fri, 22 May 2015 16:38:09 -0000`
