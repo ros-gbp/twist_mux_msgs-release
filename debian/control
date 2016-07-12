@@ -1,0 +1,12 @@
+Source: ros-kinetic-twist-mux-msgs
+Section: misc
+Priority: extra
+Maintainer: Enrique Fernandez <efernandez@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-actionlib, ros-kinetic-actionlib-msgs, ros-kinetic-catkin, ros-kinetic-message-generation
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-twist-mux-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-actionlib, ros-kinetic-actionlib-msgs, ros-kinetic-message-runtime
+Description: The twist_mux msgs and actions package
