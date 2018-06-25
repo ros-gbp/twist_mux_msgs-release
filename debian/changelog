@@ -1,0 +1,35 @@
+ros-melodic-twist-mux-msgs (2.1.0-1artful) artful; urgency=high
+
+
+
+ -- Enrique Fernandez <efernandez@clearpathrobotics.com>  Mon, 25 Jun 2018 04:00:00 -0000
+
+ros-melodic-twist-mux-msgs (2.0.0-1artful) artful; urgency=high
+
+  * Update README.md
+    Add documentation link and build status.
+  * Contributors: Enrique Fernández Perdomo
+
+ -- Enrique Fernandez <efernandez@clearpathrobotics.com>  Tue, 12 Jul 2016 04:00:00 -0000
+
+ros-melodic-twist-mux-msgs (1.0.0-1artful) artful; urgency=high
+
+
+
+ -- Enrique Fernandez <efernandez@clearpathrobotics.com>  Fri, 22 May 2015 04:00:00 -0000
+
+ros-melodic-twist-mux-msgs (0.1.0-1artful) artful; urgency=high
+
+  * Update maintainer email
+  * Contributors: Enrique Fernandez
+
+ -- Enrique Fernandez <efernandez@clearpathrobotics.com>  Sat, 04 Apr 2015 04:00:00 -0000
+
+ros-melodic-twist-mux-msgs (0.0.1-1artful) artful; urgency=high
+
+  * Add twist_mux msgs
+  * Contributors: Enrique Fernandez, Siegfried Gevatter, Paul Mathieu
+
+ -- Enrique Fernandez <efernandez@clearpathrobotics.com>  Thu, 13 Nov 2014 05:00:00 -0000
+
+
