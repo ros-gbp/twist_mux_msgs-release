@@ -1,0 +1,35 @@
+ros-melodic-twist-mux-msgs (2.1.0-4stretch) stretch; urgency=high
+
+
+
+ -- Enrique Fernandez <efernandez@clearpathrobotics.com>  Sun, 24 Jun 2018 22:00:00 -0000
+
+ros-melodic-twist-mux-msgs (2.0.0-4stretch) stretch; urgency=high
+
+  * Update README.md
+    Add documentation link and build status.
+  * Contributors: Enrique Fernández Perdomo
+
+ -- Enrique Fernandez <efernandez@clearpathrobotics.com>  Mon, 11 Jul 2016 22:00:00 -0000
+
+ros-melodic-twist-mux-msgs (1.0.0-4stretch) stretch; urgency=high
+
+
+
+ -- Enrique Fernandez <efernandez@clearpathrobotics.com>  Thu, 21 May 2015 22:00:00 -0000
+
+ros-melodic-twist-mux-msgs (0.1.0-4stretch) stretch; urgency=high
+
+  * Update maintainer email
+  * Contributors: Enrique Fernandez
+
+ -- Enrique Fernandez <efernandez@clearpathrobotics.com>  Fri, 03 Apr 2015 22:00:00 -0000
+
+ros-melodic-twist-mux-msgs (0.0.1-4stretch) stretch; urgency=high
+
+  * Add twist_mux msgs
+  * Contributors: Enrique Fernandez, Siegfried Gevatter, Paul Mathieu
+
+ -- Enrique Fernandez <efernandez@clearpathrobotics.com>  Wed, 12 Nov 2014 23:00:00 -0000
+
+
