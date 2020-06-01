@@ -1,3 +1,26 @@
+## twist_mux_msgs (noetic) - 2.1.0-1
+
+The packages in the `twist_mux_msgs` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --track noetic --rosdistro noetic twist_mux_msgs --edit` on `Mon, 01 Jun 2020 08:37:42 -0000`
+
+The `twist_mux_msgs` package was released.
+
+Version of package(s) in repository `twist_mux_msgs`:
+
+- upstream repository: https://github.com/ros-teleop/twist_mux_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `2.1.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.7`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.15.2`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## twist_mux_msgs (melodic) - 2.1.0-6
 
 The packages in the `twist_mux_msgs` repository were released into the `melodic` distro by running `/usr/bin/bloom-release twist_mux_msgs --track melodic --rosdistro melodic` on `Thu, 21 Feb 2019 10:10:15 -0000`
