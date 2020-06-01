@@ -1,0 +1,35 @@
+ros-noetic-twist-mux-msgs (2.1.0-1buster) buster; urgency=high
+
+
+
+ -- Enrique Fernandez <efernandez@clearpathrobotics.com>  Sun, 24 Jun 2018 23:00:00 -0000
+
+ros-noetic-twist-mux-msgs (2.0.0-1buster) buster; urgency=high
+
+  * Update README.md
+    Add documentation link and build status.
+  * Contributors: Enrique Fernández Perdomo
+
+ -- Enrique Fernandez <efernandez@clearpathrobotics.com>  Mon, 11 Jul 2016 23:00:00 -0000
+
+ros-noetic-twist-mux-msgs (1.0.0-1buster) buster; urgency=high
+
+
+
+ -- Enrique Fernandez <efernandez@clearpathrobotics.com>  Thu, 21 May 2015 23:00:00 -0000
+
+ros-noetic-twist-mux-msgs (0.1.0-1buster) buster; urgency=high
+
+  * Update maintainer email
+  * Contributors: Enrique Fernandez
+
+ -- Enrique Fernandez <efernandez@clearpathrobotics.com>  Fri, 03 Apr 2015 23:00:00 -0000
+
+ros-noetic-twist-mux-msgs (0.0.1-1buster) buster; urgency=high
+
+  * Add twist_mux msgs
+  * Contributors: Enrique Fernandez, Siegfried Gevatter, Paul Mathieu
+
+ -- Enrique Fernandez <efernandez@clearpathrobotics.com>  Thu, 13 Nov 2014 00:00:00 -0000
+
+

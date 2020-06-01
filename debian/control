@@ -1,0 +1,12 @@
+Source: ros-noetic-twist-mux-msgs
+Section: misc
+Priority: optional
+Maintainer: Enrique Fernandez <efernandez@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-actionlib, ros-noetic-actionlib-msgs, ros-noetic-catkin, ros-noetic-message-generation
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-noetic-twist-mux-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-actionlib, ros-noetic-actionlib-msgs, ros-noetic-message-runtime
+Description: The twist_mux msgs and actions package
