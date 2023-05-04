@@ -1,3 +1,26 @@
+## twist_mux_msgs (humble) - 3.0.0-2
+
+The packages in the `twist_mux_msgs` repository were released into the `humble` distro by running `/usr/bin/bloom-release --rosdistro humble twist_mux_msgs --edit` on `Thu, 04 May 2023 20:37:41 -0000`
+
+The `twist_mux_msgs` package was released.
+
+Version of package(s) in repository `twist_mux_msgs`:
+
+- upstream repository: https://github.com/ros-teleop/twist_mux_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `3.0.0-1`
+- new version: `3.0.0-2`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## twist_mux_msgs (humble) - 3.0.0-1
 
 The packages in the `twist_mux_msgs` repository were released into the `humble` distro by running `/usr/bin/bloom-release --rosdistro humble twist_mux_msgs --edit` on `Thu, 04 May 2023 16:00:32 -0000`
